@@ -21,7 +21,7 @@ while True:
     elif user_input == "add":
         
         print("You selected 'add'.")
-        view()
+          view()
         
     elif user_input == "view":
         
